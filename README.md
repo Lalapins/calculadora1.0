@@ -13,6 +13,7 @@ O projeto também conta com um script Shell (Bash), utilizado para facilitar a e
 - Python 3
 - Shell Script (Bash)
 - Linux / Ubuntu
+- Shell Script (Bash)	Atalho para executar o program
 - Git
 - GitHub
 - Google Colab
