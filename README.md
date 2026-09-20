@@ -11,7 +11,10 @@ Este é o meu primeiro projeto prático de programação, feito para treinar Pyt
 Em vez de só "fazer conta", quis que o programa tivesse uma pequena interação: ele pergunta o seu nome, pede dois números e deixa você escolher a operação em um menu. Um script Bash cuida de abrir tudo com um único comando.
 
 ✨ O que ela faz
-➕ Soma, ➖ subtração, ✖️ multiplicação e ➗ divisão
+➕ Soma, 
+➖ subtração, 
+✖️ multiplicação e 
+➗ divisão
 Cumprimenta o usuário pelo nome
 Aceita vírgula ou ponto nos decimais (3,5 ou 3.5)
 Pede o número de novo se você digitar algo inválido, sem travar
