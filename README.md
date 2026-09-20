@@ -52,7 +52,8 @@ Opção: 4
 | Google Colab | Testes e experimentos iniciais |
 
 ## 🚀 Como rodar (resumo)
-
+> ⚠️ Se o Windows bloquear o `executar.bat` (aviso do "Controle de Aplicativo Inteligente"), abra um terminal na pasta do projeto e rode: `python calculadora\calculadora.py`
+> 
 Você precisa ter o **Python 3** instalado (confira com `python3 --version`).
 
 - **Linux:** `bash calculadora/executar.sh` (detalhes na próxima seção)
